@@ -1,0 +1,6 @@
+C:\DotNetProjects\CSharpLibrary\0.03_strings\bin\Debug\0.03_strings.exe.config
+C:\DotNetProjects\CSharpLibrary\0.03_strings\bin\Debug\0.03_strings.exe
+C:\DotNetProjects\CSharpLibrary\0.03_strings\bin\Debug\0.03_strings.pdb
+C:\DotNetProjects\CSharpLibrary\0.03_strings\obj\Debug\0.03_strings.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\0.03_strings\obj\Debug\0.03_strings.exe
+C:\DotNetProjects\CSharpLibrary\0.03_strings\obj\Debug\0.03_strings.pdb
