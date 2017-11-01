@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.08_object Netflix_ansers", "0.08_object Netflix_ansers\0.08_object Netflix_ansers.csproj", "{C32ADBC2-C390-49D6-98B3-C0013689241C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C32ADBC2-C390-49D6-98B3-C0013689241C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C32ADBC2-C390-49D6-98B3-C0013689241C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C32ADBC2-C390-49D6-98B3-C0013689241C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C32ADBC2-C390-49D6-98B3-C0013689241C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7977AE21-1980-4EAF-859A-85DE1CE8A2E9}
+	EndGlobalSection
+EndGlobal
