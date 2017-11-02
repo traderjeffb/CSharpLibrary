@@ -7,7 +7,7 @@
     <ProjectGuid>{3DF46206-C502-4563-8EBE-2725E46A9EAC}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_1._01_Single_Dimention_Arrays_Practice</RootNamespace>
-    <AssemblyName>_1._01_Single_Dimention_Arrays_Practice</AssemblyName>
+    <AssemblyName>1.01_Single_Dimention_Arrays_Practice</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

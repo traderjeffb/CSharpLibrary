@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{60CB2D90-2108-4D0C-91DB-52CBC9FBC86C}</ProjectGuid>
+    <ProjectGuid>{83C40E28-02B1-4599-B1A3-96DC7C46EDEC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_1._02_Using_Foreach_Loops_with_Arrays</RootNamespace>
-    <AssemblyName>1.02_Using_Foreach_Loops_with_Arrays</AssemblyName>
+    <RootNamespace>_1._03_Woriking_with_Inheritance</RootNamespace>
+    <AssemblyName>1.03_Woriking_with_Inheritance</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -42,6 +42,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="GirlsTeam.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

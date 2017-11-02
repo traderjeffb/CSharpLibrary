@@ -65,6 +65,32 @@ namespace _1._00_if_else_Practice
 
 
 
+           bool isProjectLead = true;
+
+            if (isProjectLead == true) 
+            {
+                Console.WriteLine("project lead is Jeff");
+            }
+            else
+            {
+                Console.WriteLine("Jeff is not lead on this project");
+            }
+
+
+
+            string name = "jeff";
+
+            if (name == "jeff" )
+            {
+                Console.WriteLine("my name is jeff");
+            }
+            else
+            {
+                Console.WriteLine("his name is not jeff");
+            }
+                
+
+
 
 
 
