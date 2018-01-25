@@ -1,0 +1,7 @@
+C:\Users\trade\source\repos\0.09_Arrays_Challenge\0.09_Arrays_Challenge\bin\Debug\0.09_Arrays_Challenge.exe.config
+C:\Users\trade\source\repos\0.09_Arrays_Challenge\0.09_Arrays_Challenge\bin\Debug\0.09_Arrays_Challenge.exe
+C:\Users\trade\source\repos\0.09_Arrays_Challenge\0.09_Arrays_Challenge\bin\Debug\0.09_Arrays_Challenge.pdb
+C:\Users\trade\source\repos\0.09_Arrays_Challenge\0.09_Arrays_Challenge\obj\Debug\0.09_Arrays_Challenge.csprojResolveAssemblyReference.cache
+C:\Users\trade\source\repos\0.09_Arrays_Challenge\0.09_Arrays_Challenge\obj\Debug\0.09_Arrays_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\trade\source\repos\0.09_Arrays_Challenge\0.09_Arrays_Challenge\obj\Debug\0.09_Arrays_Challenge.exe
+C:\Users\trade\source\repos\0.09_Arrays_Challenge\0.09_Arrays_Challenge\obj\Debug\0.09_Arrays_Challenge.pdb

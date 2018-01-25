@@ -1,0 +1,2 @@
+C:\Users\trade\source\repos\0.11__OPP_Game\0.11__OPP_Game\obj\Debug\0.11__OPP_Game.csprojResolveAssemblyReference.cache
+C:\Users\trade\source\repos\0.11__OPP_Game\0.11__OPP_Game\obj\Debug\0.11__OPP_Game.csproj.CoreCompileInputs.cache

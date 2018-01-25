@@ -1,0 +1,7 @@
+C:\DotNetProjects\CSharpLibrary\1.05forEach_arrays\bin\Debug\1.05forEach_arrays.exe.config
+C:\DotNetProjects\CSharpLibrary\1.05forEach_arrays\bin\Debug\1.05forEach_arrays.exe
+C:\DotNetProjects\CSharpLibrary\1.05forEach_arrays\bin\Debug\1.05forEach_arrays.pdb
+C:\DotNetProjects\CSharpLibrary\1.05forEach_arrays\obj\Debug\1.05forEach_arrays.csprojResolveAssemblyReference.cache
+C:\DotNetProjects\CSharpLibrary\1.05forEach_arrays\obj\Debug\1.05forEach_arrays.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\1.05forEach_arrays\obj\Debug\1.05forEach_arrays.exe
+C:\DotNetProjects\CSharpLibrary\1.05forEach_arrays\obj\Debug\1.05forEach_arrays.pdb

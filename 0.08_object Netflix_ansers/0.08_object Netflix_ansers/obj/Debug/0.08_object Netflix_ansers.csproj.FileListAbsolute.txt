@@ -1,0 +1,7 @@
+C:\Users\trade\source\repos\0.08_object Netflix_ansers\0.08_object Netflix_ansers\bin\Debug\0.08_object Netflix_ansers.exe.config
+C:\Users\trade\source\repos\0.08_object Netflix_ansers\0.08_object Netflix_ansers\bin\Debug\0.08_object Netflix_ansers.exe
+C:\Users\trade\source\repos\0.08_object Netflix_ansers\0.08_object Netflix_ansers\bin\Debug\0.08_object Netflix_ansers.pdb
+C:\Users\trade\source\repos\0.08_object Netflix_ansers\0.08_object Netflix_ansers\obj\Debug\0.08_object Netflix_ansers.csprojResolveAssemblyReference.cache
+C:\Users\trade\source\repos\0.08_object Netflix_ansers\0.08_object Netflix_ansers\obj\Debug\0.08_object Netflix_ansers.csproj.CoreCompileInputs.cache
+C:\Users\trade\source\repos\0.08_object Netflix_ansers\0.08_object Netflix_ansers\obj\Debug\0.08_object Netflix_ansers.exe
+C:\Users\trade\source\repos\0.08_object Netflix_ansers\0.08_object Netflix_ansers\obj\Debug\0.08_object Netflix_ansers.pdb

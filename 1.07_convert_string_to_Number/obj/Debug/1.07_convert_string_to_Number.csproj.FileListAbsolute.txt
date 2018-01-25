@@ -1,0 +1,7 @@
+C:\DotNetProjects\CSharpLibrary\1.07_convert_string_to_Number\bin\Debug\1.07_convert_string_to_Number.exe.config
+C:\DotNetProjects\CSharpLibrary\1.07_convert_string_to_Number\bin\Debug\1.07_convert_string_to_Number.exe
+C:\DotNetProjects\CSharpLibrary\1.07_convert_string_to_Number\bin\Debug\1.07_convert_string_to_Number.pdb
+C:\DotNetProjects\CSharpLibrary\1.07_convert_string_to_Number\obj\Debug\1.07_convert_string_to_Number.csprojResolveAssemblyReference.cache
+C:\DotNetProjects\CSharpLibrary\1.07_convert_string_to_Number\obj\Debug\1.07_convert_string_to_Number.csproj.CoreCompileInputs.cache
+C:\DotNetProjects\CSharpLibrary\1.07_convert_string_to_Number\obj\Debug\1.07_convert_string_to_Number.exe
+C:\DotNetProjects\CSharpLibrary\1.07_convert_string_to_Number\obj\Debug\1.07_convert_string_to_Number.pdb

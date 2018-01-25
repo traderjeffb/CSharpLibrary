@@ -1,0 +1,2 @@
+C:\Users\trade\source\repos\0.12_Practice code\0.0111_OOP_Game\0.0111_OOP_Game\obj\Debug\0.0111_OOP_Game.csprojResolveAssemblyReference.cache
+C:\Users\trade\source\repos\0.12_Practice code\0.0111_OOP_Game\0.0111_OOP_Game\obj\Debug\0.0111_OOP_Game.csproj.CoreCompileInputs.cache

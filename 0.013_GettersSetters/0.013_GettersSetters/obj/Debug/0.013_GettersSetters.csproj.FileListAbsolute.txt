@@ -1,0 +1,7 @@
+C:\Users\trade\source\repos\0.013_GettersSetters\0.013_GettersSetters\obj\Debug\0.013_GettersSetters.csprojResolveAssemblyReference.cache
+C:\Users\trade\source\repos\0.013_GettersSetters\0.013_GettersSetters\obj\Debug\0.013_GettersSetters.csproj.CoreCompileInputs.cache
+C:\Users\trade\source\repos\0.013_GettersSetters\0.013_GettersSetters\bin\Debug\0.013_GettersSetters.exe.config
+C:\Users\trade\source\repos\0.013_GettersSetters\0.013_GettersSetters\bin\Debug\0.013_GettersSetters.exe
+C:\Users\trade\source\repos\0.013_GettersSetters\0.013_GettersSetters\bin\Debug\0.013_GettersSetters.pdb
+C:\Users\trade\source\repos\0.013_GettersSetters\0.013_GettersSetters\obj\Debug\0.013_GettersSetters.exe
+C:\Users\trade\source\repos\0.013_GettersSetters\0.013_GettersSetters\obj\Debug\0.013_GettersSetters.pdb
